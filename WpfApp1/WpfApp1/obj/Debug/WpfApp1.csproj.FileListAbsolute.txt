@@ -1,0 +1,36 @@
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\Design1UserControl.baml
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\Design1UserControl.g.cs
+C:\Users\Digital Dividend\Desktop\WPF practice\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\Design1UserControl.baml
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\Design1UserControl.g.cs
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\CC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
